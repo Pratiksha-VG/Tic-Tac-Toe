@@ -1,1 +1,1 @@
-# Tic-Tac-Toe
+Created a web-based Tic Tac Toe game using HTML for structure, CSS for styling, and JavaScript for interactivity. Design the 3x3 grid game board in HTML, style it with CSS to enhance the visual appeal and user experience, and implement game logic in JavaScript to handle player turns, win conditions, and user interactions. Optionally, add features like a scoreboard or animations for an enhanced gameplay experience.
